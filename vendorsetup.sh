@@ -49,3 +49,4 @@ add_lunch_combo aokp_vs920-userdebug
 add_lunch_combo aokp_xt1053-userdebug
 add_lunch_combo aokp_xt1060-userdebug
 add_lunch_combo aokp_yuga-userdebug
+add_lunch_combo aokp_kumquat-userdebug
