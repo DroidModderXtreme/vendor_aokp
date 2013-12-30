@@ -9,7 +9,7 @@ add_lunch_combo aokp_tilapia-userdebug
 add_lunch_combo aokp_manta-userdebug
 add_lunch_combo aokp_d2att-userdebug
 add_lunch_combo aokp_d2tmo-userdebug
-add_lunch_combo aokp_d2usc-userdebug
+add_lunch_combo aokp_c1905-userdebug
 add_lunch_combo aokp_d2vzw-userdebug
 add_lunch_combo aokp_evita-userdebug
 add_lunch_combo aokp_find5-userdebug
